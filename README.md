@@ -14,3 +14,5 @@
   
 <div/>
   
+<p align="center"> Visitas no meu perfil </p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/xand3/count.svg" /></p>
