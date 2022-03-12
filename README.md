@@ -1,4 +1,5 @@
 ### Olá! Me chamo Alexandre 👋
+<p>Estou cursando Engenharia de Software, e construindo conhecimento além da faculdade para me tornar programador full stack.</p>
 
 <div style="display: flex; flex-direction: row;">
   <a href="https://github.com/xand3">
