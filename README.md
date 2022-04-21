@@ -9,14 +9,14 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xand3&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  
-##
 <div style="display: inline_block;"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  
 <div/>
   
-<p align="center"> Visitas no meu perfil </p>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/xand3/count.svg" /></p>
+ ## O que estou Estudando no momento 
+  - HTML5
+  - CSS3
+  - JavaScript
