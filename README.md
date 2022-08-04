@@ -1,5 +1,5 @@
 ### Olá! Me chamo Alexandre 👋
-<p>Estou cursando Engenharia de Software, e construindo conhecimento além da faculdade para me tornar programador full stack.</p>
+<p>Estou cursando Engenharia de Software, e construindo conhecimento além da faculdade para me tornar programador full stack, também sou aluno da Resilia Educação, aqui no meu perfil você consegue ver meus projetos feitos durante o curso.</p>
 <a href="https://www.linkedin.com/in/alexandr3-bastos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
