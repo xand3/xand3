@@ -1,7 +1,5 @@
 ### Olá! Me chamo Alexandre 👋
-<p>Estudante de Engenharia de Software cursando atualmente o 3º período, com previsão de conclusão em 2025 e apaixonado pela área de desenvolvimento seja front ou back-end, tenho muita curiosidade por isso sempre gosto de aprender novas tecnologias para entender como as coisas realmente funcionam.
-
-Fui Aluno da Resilia Educação, e do programa ONE.
+<p>Estudante de Engenharia de Software cursando atualmente o 3º período, com previsão de conclusão em 2025 e apaixonado pela área de desenvolvimento seja front ou back-end, tenho muita curiosidade por isso sempre gosto de aprender novas tecnologias para entender como as aplicações realmente funcionam.
 
 
 </p>
