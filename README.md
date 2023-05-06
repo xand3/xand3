@@ -1,8 +1,10 @@
-### Olá! Me chamo Alexandre 👋
-<p>Estudante de Engenharia de Software cursando atualmente o 3º período, com previsão de conclusão em 2025 e apaixonado pela área de desenvolvimento seja front ou back-end, tenho muita curiosidade por isso sempre gosto de aprender novas tecnologias para entender como as aplicações realmente funcionam.
+### Hi! I'm Alexandre Bastos👋
+<p>Estudante de Engenharia de Software cursando atualmente o 3º período, com previsão de conclusão em 2025 e apaixonado pela área de desenvolvimento seja front ou back-end, tenho muita curiosidade por isso sempre gosto de aprender novas tecnologias para entender como as aplicações realmente funcionam.</p>
+  
+  
+<img align="center" src="https://i.ibb.co/R0gDK63/art.gif" alt="art" border="0">
 
 
-</p>
 <a href="https://www.linkedin.com/in/alexandr3-bastos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
