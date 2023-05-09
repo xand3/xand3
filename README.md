@@ -1,18 +1,36 @@
 ### Hi! I'm Alexandre Bastos 👋
-<img align="center" height="150em" src="https://i.ibb.co/R0gDK63/art.gif" alt="astronaut" border="2" align="right">
+<hr/>
+
+<div style="justify-content: space-between; display: flex;">
+<div>
 
 - 💻 Software Engineer - Focused on JavaScript stack.
 - ⌨ I'm currently open to work.
 - 📚 University student.
 - 📈 Always learning new stuff.
+
+</div>
+
+<div>
+<img height="150em" src="https://i.ibb.co/R0gDK63/art.gif" alt="astronaut" border="2">
+</div>
+</div>
+
 <hr/>
 
-### Connect with me
+### Connect with me:
 
-<a href="https://www.linkedin.com/in/alexandr3-bastos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/alexandr3-bastos/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
+<a href="https://open.spotify.com/user/22tg6omgb5jwgcg7337skw62q?si=6d9499694d0a4a4b" target="_blank">
+<img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" target="_blank">
+</a>
+<a href = "mailto:xande.bastos321@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 <hr/>
 
-### Github Stats
+### Github Stats:
 <div style="display: flex; flex-direction: row;">
   <a href="https://github.com/xand3">
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=xand3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -20,7 +38,7 @@
 </div>
 <hr/>
   
-### Stack
+### Stack:
 
 <div style="display: inline_block;"><br>
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -30,5 +48,10 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
-<div/>
-  
+</div>
+
+<br/>
+
+<p style="text-align:center">
+<q>There are a lot of little reasons why the big things in our lives happen.</q>
+</p>
