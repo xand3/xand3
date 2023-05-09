@@ -1,22 +1,11 @@
 ### Hi! I'm Alexandre Bastos 👋
-<hr/>
 
-<div style="justify-content: space-between; display: flex;">
-<div>
+<img height="150em" src="https://i.ibb.co/R0gDK63/art.gif" alt="astronaut" border="2" align="right">
 
 - 💻 Software Engineer - Focused on JavaScript stack.
 - ⌨ I'm currently open to work.
 - 📚 University student.
 - 📈 Always learning new stuff.
-
-</div>
-
-<div>
-<img height="150em" src="https://i.ibb.co/R0gDK63/art.gif" alt="astronaut" border="2">
-</div>
-</div>
-
-<hr/>
 
 ### Connect with me:
 
@@ -52,6 +41,6 @@
 
 <br/>
 
-<p style="text-align:center">
+<p align="center">
 <q>There are a lot of little reasons why the big things in our lives happen.</q>
 </p>
