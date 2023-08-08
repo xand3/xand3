@@ -12,9 +12,6 @@
 <a href="https://www.linkedin.com/in/alexandr3-bastos/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
-<a href="https://open.spotify.com/user/22tg6omgb5jwgcg7337skw62q?si=6d9499694d0a4a4b" target="_blank">
-<img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" target="_blank">
-</a>
 <a href = "mailto:xande.dev@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
 <a href = "https://portfolio-nextjs-xand3.vercel.app/"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-FFFFFF?style=for-the-badge&logo=xstate&logoColor=black" target="_blank">
