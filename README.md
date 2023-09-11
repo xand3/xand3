@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
 <a href = "mailto:xande.dev@outlook.com">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/EMAIL-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
 </a>
 <a href = "https://portfolio-nextjs-xand3.vercel.app/">
   <img src="https://img.shields.io/badge/-Portf%C3%B3lio-FFFFFF?style=for-the-badge&logo=xstate&logoColor=black" target="_blank">
