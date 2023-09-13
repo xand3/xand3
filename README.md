@@ -18,6 +18,9 @@
 <a href = "https://portfolio-nextjs-xand3.vercel.app/">
   <img src="https://img.shields.io/badge/-Portf%C3%B3lio-FFFFFF?style=for-the-badge&logo=xstate&logoColor=black" target="_blank">
 </a>
+<a href = "https://www.codewars.com/users/xand3">
+  <img src="https://img.shields.io/badge/Codewars-%23333?style=for-the-badge&logo=codewars&logoColor=red" target="_blank">
+</a>
 <a href = "https://steamcommunity.com/id/xandeXAND3/">
   <img src="https://img.shields.io/badge/Steam-%23333?style=for-the-badge&logo=Steam&logoColor=white" target="_blank">
 </a>
