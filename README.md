@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/EMAIL-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
 </a>
 <a href = "https://portfolio-nextjs-xand3.vercel.app/">
-  <img src="https://img.shields.io/badge/-Portf%C3%B3lio-FFFFFF?style=for-the-badge&logo=xstate&logoColor=black" target="_blank">
+  <img src="https://img.shields.io/badge/-Portf%C3%B3lio-FFFFFF?style=for-the-badge" target="_blank">
 </a>
 <a href = "https://www.codewars.com/users/xand3">
   <img src="https://img.shields.io/badge/Codewars-%23333?style=for-the-badge&logo=codewars&logoColor=red" target="_blank">
