@@ -32,8 +32,8 @@
 ### Github Stats:
 <div style="display: flex; flex-direction: row;">
   <a href="https://github.com/xand3">
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=xand3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xand3&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-stats-extended.vercel.app/api?username=xand3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=xand3&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <hr/>
   
